@@ -1,5 +1,9 @@
 # HyperspaceAI-Node
 ## ➡️ Method 1. Browser Node
+* Run using browser if you have an idle PC or during the times you're working on your computer
+* You might obtain uptime for multipliers, I'm running it 24/7
+* You can run it on a windows server (if you have a VPS with windows installed on for other extension nodes)
+
 ### 1. Visit: https://node.hyper.space/
 
 ### 2. Switch the red button to green
