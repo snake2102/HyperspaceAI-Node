@@ -7,7 +7,7 @@
 curl https://download.hyper.space/api/install | bash
 ```
 
-### Start a your node
+### Start your node
 ```console
 # Create a screen ro run it in background for later
 screen -S hyperspace
@@ -17,7 +17,7 @@ aios-cli start
 ```
 * To continue, minimize your screen using `CTRL+A+D` or Open second terminal
 
-### Start Node
+### Config Node
 ```console
 # Run this to see what models are required
 aios-cli hive select-tier 5
