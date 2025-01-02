@@ -38,7 +38,7 @@ You can choose GPU or CPU versions
 
 ![image](https://github.com/user-attachments/assets/e79f90f3-7c50-4a8c-a352-712844592092)
 
-* Haven't find a way to export the in-app PrivateKey but you can create one using Browser Method, then import it in the app.(Remember you cannot run multiple nodes with 1 privatekey in a same time)
+* You can find your PrivateKey file `key.pmf` in this directory `C:\Users\XXX\AppData\Roaming\hyperspace`
 
 #
 
