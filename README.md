@@ -90,6 +90,8 @@ aios-cli hive points
 
 # Usefull commands
 ```console
+# Shortcut for Start, Login and Connect to Hive commands, if you've stopped you node
+aios-cli start --connect
 # Update node
 aios-cli version
 # Stop node
