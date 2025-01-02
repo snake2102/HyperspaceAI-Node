@@ -1,7 +1,9 @@
 # HyperspaceAI-Node
 
 ## Linux CLI
-[Official repository](https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file) with all of the commands (if needed)
+* I'm receiving points on my VPS by going through the following guide but I will update the repo if it was needed to enhance it
+* You can also check out [Official repository](https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file) for more commands and info
+
 ### Install
 ```
 curl https://download.hyper.space/api/install | bash
@@ -32,9 +34,16 @@ aios-cli hive login
 # Make sure the model is registered
 aios-cli hive connect
 aios-cli hive select-tier 5
+```
+
+### Check Points
+```
 # To check your current multiplier and points
 aios-cli hive points
 ```
+
+![Screenshot_514](https://github.com/user-attachments/assets/b840775e-6c58-4fe4-bd95-a5b876ba7de5)
+
 
 # Usefull commands
 ```console
