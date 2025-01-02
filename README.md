@@ -1,4 +1,4 @@
-# HyperspaceAI-Node
+# Hyperspace Node
 ## ➡️ Method 1. Browser Node
 * Run using browser if you have an idle PC or during the times you're working on your computer
 * You might obtain uptime for multipliers, I'm running it 24/7
