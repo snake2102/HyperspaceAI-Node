@@ -5,6 +5,8 @@
 ### Install
 ```
 curl https://download.hyper.space/api/install | bash
+
+source /root/.bashrc
 ```
 
 ### Start your node
