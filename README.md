@@ -70,7 +70,7 @@ aios-cli start
 aios-cli hive select-tier 5
 # Download a required model
 aios-cli models add hf:TheBloke/phi-2-GGUF:phi-2.Q4_K_M.gguf
-# Import your private key - Create a .pem file using nano .pem and input a privatekey (You can get a privatekey from browser version)
+# Import your private key - Create a my.pem file using nano .pem and input a privatekey (You can get a privatekey from browser version)
 aios-cli hive import-keys ./my.pem
 # Set those keys as the preferred keys for this session
 aios-cli hive login
