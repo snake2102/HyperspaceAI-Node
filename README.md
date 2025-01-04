@@ -74,7 +74,7 @@ aios-cli hive import-keys ./my.pem
 aios-cli hive login
 # Make sure the model is registered
 aios-cli hive connect
-aios-cli hive select-tier 5
+aios-cli hive select-tier 3
 ```
 
 ### Check Points
